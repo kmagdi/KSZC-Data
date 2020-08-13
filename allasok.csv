@@ -1,9 +1,9 @@
-id;jobName;jobLocation;jobType;posted
-1;Matematika-bármely szakos tanár;Budapest 17. ker. - Pest megye;matematikatanár;Budapesti Szakképzési Centrum
-2;Gazdasági ügyintézõ;6000 Kecskemét;bérszámfejtõ;Kecskeméti Szakképzési Centrum
-3;Tanár;6001 Kecskemét;Hitoktató;Kecskeméti Szakképzési Centrum
-4;Tanár;6002 Kecskemét;német nyelvtanár;Kecskeméti Szakképzési Centrum
-5;Tanár;6003 Kecskemét;kémiatanár;Kecskeméti Szakképzési Centrum
-6;Tanár;6004 Kecskemét;történelemtanár;Kecskeméti Szakképzési Centrum
-7;Gondnoksági munkatárs;6005 Kecskemét;portás;Kecskeméti Szakképzési Centrum
-8;Informatika tanár;6006 Kecskemét;Informatikus oktató;Kecskeméti Szakképzési Centrum
+id;jobName;jobLocation;jobType;posted;n
+1;Matematika-bÃ¡rmely szakos tanÃ¡r;Budapest 17. ker. - Pest megye;matematikatanÃ¡r;Budapesti SzakkÃ©pzÃ©si Centrum;1
+2;GazdasÃ¡gi Ã¼gyintÃ©zÅ‘;6000 KecskemÃ©t;bÃ©rszÃ¡mfejtÅ‘;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+3;TanÃ¡r;6001 KecskemÃ©t;HitoktatÃ³;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+4;TanÃ¡r;6002 KecskemÃ©t;nÃ©met nyelvtanÃ¡r;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+5;TanÃ¡r;6003 KecskemÃ©t;kÃ©miatanÃ¡r;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+6;TanÃ¡r;6004 KecskemÃ©t;tÃ¶rtÃ©nelemtanÃ¡r;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+7;GondnoksÃ¡gi munkatÃ¡rs;6005 KecskemÃ©t;portÃ¡s;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
+8;Informatika tanÃ¡r;6006 KecskemÃ©t;Informatikus oktatÃ³;KecskemÃ©ti SzakkÃ©pzÃ©si Centrum;1
