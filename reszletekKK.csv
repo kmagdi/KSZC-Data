@@ -4,11 +4,7 @@ T1;3;0;Szoftverfejlesztő;Ha van benned gondolkozásra való készség,kis kreat
 Egy programozónak egyszerre több nyelvet is beszélnie, értenie kell,  pl. Python, JAVA, mellette használatosak még az SQL, a szkriptnyelvek (PHP, JavaScript), illetve a leíró nyelvek (HTML, CSS) is.;Szoftverfejlesztő és alkalmazásprogramozó stúdiókban: programozóként, fejlesztőként, karbantartóként, szoftver és rendszertesztelőként, adatbázis fejlesztőként, szoftvertelepítőként. Önálló vállalkozást is kezdhetsz vagy tanulmányaid folytathatod a felsőoktatásban.;Programozási alapismereteket, Matematikai elveket
 Algoritmusok készítését és felhasználását, Adatbázis kezelési gyakorlatot, Fejlesztői keretrendszerek felhasználását,Programozói szemléletmódot (UML, OOP, tervezési minták), Ismertebb nyelveket: Python, JAVA, JS, PHP
 Leíró és lekérdező nyelveket: HTML, CSS, Bootsrap, SQL adatok tárolására és lekérdezésére), Grafikai programok ismeretét;az oktatok listaja: T1;fontos tudnivalo 1,fontos 2 sor, fontos 3 sor;kollegium, osztondij, kedvezmenyek;1
-T2;0;0;Gépgyártástechnológiai technikus;  a szak2 -t azoknak ajanljuk…..;mit is csinal a szak2…..;milyen munkakorben fog tudni majd elhelyezkedni a szak2;mit fog tanulni a szak2;az okattok listaja: szak2;fontos 1
-fontos 2
-fontos….";"kollegium
-osztondij
-";1
+T2;0;0;Gépgyártástechnológiai technikus;  a szak2 -t azoknak ajanljuk…..;mit is csinal a szak2…..;milyen munkakorben fog tudni majd elhelyezkedni a szak2;mit fog tanulni a szak2;az okattok listaja: szak2;fontos 1, fontos 2, fontos….;kollegium, osztondij;1
 T3;0;0;Mechatronikai technikus;ajnlas T3;mit cisnal T3;milyen munkakor T3;mit tanul T3;oktatok: T3;fontos - T3;iskola biztositja -T3;1
 G1;0;0;Képző-és iparművészeti munkatárs szakképesítés;ajnlas G1;mit cisnal G1;milyen munkakor G1;mit tanul G1;oktatok: G1;fontos - G1;iskola biztositja -G1;1
 SZ1;0;0;Asztalos;ajnlas SZ1;mit cisnal SZ1;milyen munkakor SZ1;mit tanul SZ1;oktatok: SZ1;fontos - SZ1;iskola biztositja -SZ1;1
